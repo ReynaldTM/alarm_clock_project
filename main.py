@@ -2,6 +2,8 @@ from playsound import playsound
 import time
 
 playsound("digital-alarm-clock-151920.mp3")
+
+
 #
 
 def alarm(seconds):
